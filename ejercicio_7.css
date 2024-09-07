@@ -1,0 +1,50 @@
+h1{
+    color:blueviolet
+}
+p{
+    text-align: right;
+}
+
+.description{
+    font-weight: bold;
+    color: blue;
+    background-color: aquamarine;
+}
+#encabezado {
+    background-color: green;
+}
+a[href="https://www.nationalgeographicla.com/animales/gato-domestico"]{
+    color:rgb(37, 95, 32);
+    font-style: italic;
+    font-size: large;
+}
+body {
+    background-color: #733924;
+}
+
+h1 { background-color: #d9984a;
+}
+div {background-color: #a64e2e;}
+div {
+    color:darkred;
+}
+div {border: color #00ff;
+border-style:solid;
+}
+div {
+    color:darkred;
+    outline-color:rgb(142, 121, 121);
+    outline-style:solid;
+    border-color:orange;
+    border-style:solid;
+
+}
+
+body {
+    color: blue;
+  }
+  
+  h1 {
+    color: green;
+  }
+  
